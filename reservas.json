@@ -1,0 +1,42 @@
+[
+  {
+    "id": "0a9daece-97d4-43c8-adc7-04106f453eff",
+    "or_id": 3,
+    "doctor_id": 1,
+    "procedure_id": 4,
+    "start_iso": "2025-10-23T16:00:00.000Z",
+    "end_iso": "2025-10-23T17:15:00.000Z"
+  },
+  {
+    "id": "de79d019-34a2-4439-9e9d-c4e47a367a75",
+    "or_id": 1,
+    "doctor_id": 2,
+    "procedure_id": 1,
+    "start_iso": "2025-08-07T13:30:00.000Z",
+    "end_iso": "2025-08-07T15:00:00.000Z"
+  },
+  {
+    "id": "630858c5-c6a0-4ee4-a2fa-f08bb5c00bd6",
+    "or_id": 1,
+    "doctor_id": 1,
+    "procedure_id": 1,
+    "start_iso": "2025-10-24T13:00:00.000Z",
+    "end_iso": "2025-10-24T14:30:00.000Z"
+  },
+  {
+    "id": "4ceba37a-d706-43c8-beac-9335bcbe5a5f",
+    "or_id": 1,
+    "doctor_id": 1,
+    "procedure_id": 1,
+    "start_iso": "2025-10-24T06:00:00.000Z",
+    "end_iso": "2025-10-24T07:30:00.000Z"
+  },
+  {
+    "id": "e29d4da8-095d-4a22-a484-9b28d5fa05a9",
+    "or_id": 2,
+    "doctor_id": 1,
+    "procedure_id": 2,
+    "start_iso": "2025-10-24T16:50:00.000Z",
+    "end_iso": "2025-10-24T18:50:00.000Z"
+  }
+]
